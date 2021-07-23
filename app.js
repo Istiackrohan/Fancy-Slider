@@ -143,6 +143,8 @@ sliderBtn.addEventListener('click', function () {
   createSlider()
 })
 
+// I did this extra.
+
 duration.addEventListener("keyup", function (event) {
   if (event.keyCode === 13) {
     event.preventDefault();
